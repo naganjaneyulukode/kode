@@ -4,7 +4,7 @@
 3. Using lambda we can do only one expression.
 
 '''
-Lambda with out arguments 
+####Lambda with out arguments 
 #add = lambda : 2 + 8
 #r = add()
 #print(r)
